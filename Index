@@ -286,7 +286,7 @@ body.adm #cbar,body.adm #ftr,body.adm #hdr{display:none}
 </noscript>
 <!-- ===== إعدادات الاتصال بالخدمة (عدّل الرابط هنا إن تغيّر رابط النشر في Apps Script) ===== -->
 <script>
-window.NQ_API='https://script.google.com/macros/s/AKfycbzeWyU4RMZqvIH0rffaMI_jtErG3rzF3__2oyZs7LmFhzEAhtnVCFzXz2gzfz_1Nxe1/exec';
+window.NQ_API='https://script.google.com/macros/s/AKfycbxJBHAzrPQh96DbQ1x2pM2lYb2u9WVvgoXmzlHMTvKrmwTID83S8g8Qq3xWqp6ZRStM9A/exec';
 var INIT_PAGE=(new URLSearchParams(location.search).get('page')==='admin')?'admin':'';
 var AUTH_RESULT={};
 var INIT_ROUTE='';
