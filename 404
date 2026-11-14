@@ -1,0 +1,1 @@
+<!DOCTYPE html><html lang="ar" dir="rtl"><head><meta charset="utf-8"><meta http-equiv="refresh" content="0; url=./"><title>النحو بالورقة والقلم</title></head><body><p><a href="./">العودة إلى الصفحة الرئيسية</a></p></body></html>
