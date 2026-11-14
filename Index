@@ -295,7 +295,7 @@ var INIT_ROUTE='';
 <script>
 (function () {
 'use strict';
-var NQ = window.NQ = {};
+var NQ = window.NQ = {https://script.google.com/macros/s/AKfycbxJBHAzrPQh96DbQ1x2pM2lYb2u9WVvgoXmzlHMTvKrmwTID83S8g8Qq3xWqp6ZRStM9A/exec};
 var S = NQ.S = { token: null, type: null, user: null, set: {}, classes: [], cats: [], stack: [], cur: null, dash: null, tab: 'overview', anchor: '' };
 var REG = NQ.REG = {}, LK = NQ.LK = {}, ACT = NQ.ACT = {}, CHG = NQ.CHG = {}, INP = NQ.INP = {}, SUB = NQ.SUB = {}, VIEWS = {}, TM = {}, PG = null, BUSY = 0;
 var $ = NQ.$ = function (s, r) { return (r || document).querySelector(s); };
